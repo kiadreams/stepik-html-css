@@ -1,0 +1,26 @@
+.box-first {
+    height: 200px;
+    width: 600px;
+    background-color: red;
+}
+
+.box-between, .box-second{
+    width: 300px;
+    height: 50px;
+}
+
+.box-second {
+    height: 400px;
+    background-color: blue;
+}
+
+.box-first-inner, .box-second-inner {
+    background-color: darkgray;
+    width: 100px;
+    height: 100px;
+}
+
+.box-second-inner {
+    height: 250px;
+}
+
